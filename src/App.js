@@ -43,21 +43,21 @@ const App = () => {
                             /* Add ExpenseList component here */
                             <div className= "col-sm'>
                                 <ExpenseList />
-                                </div>
+                            </div>
                         }         
 
                         {
                             /* Add ExpenseItem component here */
                              <div className= "col-sm'>
                                 <ExpenseItem />
-                                </div>
+                            </div>
                         }        
 
                         {
                             /* Add AllocationForm component here under */
                              <div className= "col-sm'>
                                 <AllocationForm />
-                                </div>
+                            </div>
                         }        
 
                 </div>
