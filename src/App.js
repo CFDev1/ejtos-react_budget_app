@@ -53,7 +53,7 @@ const App = () => {
                         {
                             /* Add AllocationForm component here under */
                              <div className= "col-sm'>
-                                <AllocationForm/>
+                                <AllocationForm />
                                 </div>
                         }        
 
